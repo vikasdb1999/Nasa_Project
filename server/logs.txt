@@ -1,0 +1,202 @@
+[
+  'Kepler-1652 b',
+  'Kepler-1410 b',
+  'Kepler-296 A f',
+  'Kepler-442 b',
+  'Kepler-296 A e',
+  'Kepler-1649 b',
+  'Kepler-62 f',
+  'Kepler-452 b'
+]
+end
+Listening on Port 8000
+[
+  'Kepler-1652 b',
+  'Kepler-1410 b',
+  'Kepler-296 A f',
+  'Kepler-442 b',
+  'Kepler-296 A e',
+  'Kepler-1649 b',
+  'Kepler-62 f',
+  'Kepler-452 b'
+]
+end
+Listening on Port 8000
+[
+  'Kepler-1652 b',
+  'Kepler-1410 b',
+  'Kepler-296 A f',
+  'Kepler-442 b',
+  'Kepler-296 A e',
+  'Kepler-1649 b',
+  'Kepler-62 f',
+  'Kepler-452 b'
+]
+end
+[
+  'Kepler-1652 b',
+  'Kepler-1410 b',
+  'Kepler-296 A f',
+  'Kepler-442 b',
+  'Kepler-296 A e',
+  'Kepler-1649 b',
+  'Kepler-62 f',
+  'Kepler-452 b'
+]
+[
+  'Kepler-1652 b',
+  'Kepler-1410 b',
+  'Kepler-296 A f',
+  'Kepler-442 b',
+  'Kepler-296 A e',
+  'Kepler-1649 b',
+  'Kepler-62 f',
+  'Kepler-452 b'
+]
+Listening on Port 8000
+end
+[
+  'Kepler-1652 b',
+  'Kepler-1410 b',
+  'Kepler-296 A f',
+  'Kepler-442 b',
+  'Kepler-296 A e',
+  'Kepler-1649 b',
+  'Kepler-62 f',
+  'Kepler-452 b'
+]
+end
+Listening on Port 8000
+[
+  'Kepler-1652 b',
+  'Kepler-1410 b',
+  'Kepler-296 A f',
+  'Kepler-442 b',
+  'Kepler-296 A e',
+  'Kepler-1649 b',
+  'Kepler-62 f',
+  'Kepler-452 b'
+]
+end
+Listening on Port 8000
+end
+Listening on Port 8000
+Listening on Port 8000
+[
+  'Kepler-1652 b',
+  'Kepler-1410 b',
+  'Kepler-296 A f',
+  'Kepler-442 b',
+  'Kepler-296 A e',
+  'Kepler-1649 b',
+  'Kepler-62 f',
+  'Kepler-452 b'
+]
+end
+Listening on Port 8000
+::1 - - [07/Feb/2024:11:01:00 +0000] "GET /launches HTTP/1.1" 200 205 "http://localhost:3001/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36"
+::1 - - [07/Feb/2024:11:01:00 +0000] "GET /planets HTTP/1.1" 200 9862 "http://localhost:3001/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36"
+::1 - - [07/Feb/2024:11:01:07 +0000] "GET /launches HTTP/1.1" 200 205 "http://localhost:3001/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36"
+::1 - - [07/Feb/2024:11:01:07 +0000] "GET /planets HTTP/1.1" 200 9862 "http://localhost:3001/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36"
+[
+  'Kepler-1652 b',
+  'Kepler-1410 b',
+  'Kepler-296 A f',
+  'Kepler-442 b',
+  'Kepler-296 A e',
+  'Kepler-1649 b',
+  'Kepler-62 f',
+  'Kepler-452 b'
+]
+end
+Listening on Port 8000
+[
+  'Kepler-1652 b',
+  'Kepler-1410 b',
+  'Kepler-296 A f',
+  'Kepler-442 b',
+  'Kepler-296 A e',
+  'Kepler-1649 b',
+  'Kepler-62 f',
+  'Kepler-452 b'
+]
+end
+Listening on Port 8000
+[
+  'Kepler-1652 b',
+  'Kepler-1410 b',
+  'Kepler-296 A f',
+  'Kepler-442 b',
+  'Kepler-296 A e',
+  'Kepler-1649 b',
+  'Kepler-62 f',
+  'Kepler-452 b'
+]
+end
+Listening on Port 8000
+[
+  'Kepler-1652 b',
+  'Kepler-1410 b',
+  'Kepler-296 A f',
+  'Kepler-442 b',
+  'Kepler-296 A e',
+  'Kepler-1649 b',
+  'Kepler-62 f',
+  'Kepler-452 b'
+]
+end
+Listening on Port 8000
+[
+  'Kepler-1652 b',
+  'Kepler-1410 b',
+  'Kepler-296 A f',
+  'Kepler-442 b',
+  'Kepler-296 A e',
+  'Kepler-1649 b',
+  'Kepler-62 f',
+  'Kepler-452 b'
+]
+end
+Listening on Port 8000
+[
+  'Kepler-1652 b',
+  'Kepler-1410 b',
+  'Kepler-296 A f',
+  'Kepler-442 b',
+  'Kepler-296 A e',
+  'Kepler-1649 b',
+  'Kepler-62 f',
+  'Kepler-452 b'
+]
+end
+Listening on Port 8000
+[
+  'Kepler-1652 b',
+  'Kepler-1410 b',
+  'Kepler-296 A f',
+  'Kepler-442 b',
+  'Kepler-296 A e',
+  'Kepler-1649 b',
+  'Kepler-62 f',
+  'Kepler-452 b'
+]
+end
+Listening on Port 8000
+[
+  'Kepler-1652 b',
+  'Kepler-1410 b',
+  'Kepler-296 A f',
+  'Kepler-442 b',
+  'Kepler-296 A e',
+  'Kepler-1649 b',
+  'Kepler-62 f',
+  'Kepler-452 b'
+]
+end
+Listening on Port 8000
+::1 - - [07/Feb/2024:11:09:05 +0000] "GET /launches HTTP/1.1" 200 205 "http://localhost:3001/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36"
+::1 - - [07/Feb/2024:11:09:05 +0000] "GET /planets HTTP/1.1" 200 9862 "http://localhost:3001/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36"
+::1 - - [07/Feb/2024:11:09:23 +0000] "POST /launches HTTP/1.1" 201 191 "http://localhost:3001/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36"
+::1 - - [07/Feb/2024:11:09:23 +0000] "GET /launches HTTP/1.1" 200 397 "http://localhost:3001/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36"
+::1 - - [07/Feb/2024:11:09:29 +0000] "DELETE /launches/101 HTTP/1.1" 200 193 "http://localhost:3001/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36"
+::1 - - [07/Feb/2024:11:09:29 +0000] "GET /launches HTTP/1.1" 200 399 "http://localhost:3001/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36"
