@@ -1,18 +1,17 @@
 name: NASA PROJECT CI
-on: 
-  push: 
+on:
+  push:
     branches: [main]
-  pull_request: 
+  pull_request:
     branches: [main]
-jobs: 
-  build: 
+jobs:
+  build:
     runs-on: ubuntu-latest
-    steps: 
+    steps:
       - uses: actions/checkout@v2
-      - name:
+      - name: Setup Node.js
         uses: actions/setup-node@v2
-        with: 
-          node-version: "18"
+        with:
+          node-version: "20"
       - run: npm install
-      - run: npm  run parallel
-       
+      - run: npm run parallel
